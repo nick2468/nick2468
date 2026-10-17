@@ -6,6 +6,9 @@ Most of what I build is data tooling. Some of it is games.
 
 ### What is here
 
+**[DataCrafter](https://github.com/nick2468/DataCrafter-releases)** - a data
+platform I build. Releases are public, the source is private.
+
 **[Conquest](https://github.com/nick2468/Conquest)** - a turn-based territory
 game for the iPad and the web. Three hand-drawn maps, eight computer
 opponents, and it plays with the network off. The rules engine touches no
