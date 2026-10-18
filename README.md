@@ -6,7 +6,7 @@ Most of what I build is data tooling. Some of it are personal and educational pr
 
 ### What is here
 
-**[DataCrafter](https://datacrafter.net)** - a comprehensive data engineering platform. Releases are public, the source is private.
+**[DataCrafter](https://www.datacrafter.net)** - a comprehensive data engineering platform. Releases are public, the source is private.
 
 **[DataCrafter Releases Repo](https://github.com/nick2468/DataCrafter-releases)** - To open-source, or not to open-source, that is the question.
 
