@@ -23,8 +23,17 @@ drill it back from memory on a schedule, then play it against an engine
 steered into the lines you have studied. Every line the notes name is played
 on a board by a checker, which is how a note that recommends an illegal move
 gets caught before a reader trusts it.
+[Download it](https://github.com/nick2468/Tabiya/releases/latest).
 
 **[jcc](https://github.com/nick2468/jcc)** - a small C compiler written in
 Java.
+
+### About the downloads
+
+My installers are not signed with a code signing certificate, so Windows will
+warn you that the publisher is unknown and ask whether you want to continue.
+That prompt is expected and says nothing about the file beyond the fact that I
+have not bought a certificate. Where the source is public you are welcome to
+read it, or build it yourself, rather than take my word for it.
 
 More on the way.
