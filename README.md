@@ -25,6 +25,15 @@ on a board by a checker, which is how a note that recommends an illegal move
 gets caught before a reader trusts it.
 [Download it](https://github.com/nick2468/Tabiya/releases/latest).
 
+**[Tabiya Player](https://github.com/nick2468/TabiyaPlayer)** - Tabiya's
+companion: a no-frills chess game against Stockfish, with a review afterwards
+that names every slip and the move the engine preferred. The review is handed
+the numbers the evaluation bar already worked out during the game, so you are
+judged by exactly what you were watching, and a position the bar called level
+cannot turn into a blunder afterwards because a later search happened to see
+further.
+[Download it](https://github.com/nick2468/TabiyaPlayer/releases/latest).
+
 **[jcc](https://github.com/nick2468/jcc)** - a small C compiler written in
 Java.
 
