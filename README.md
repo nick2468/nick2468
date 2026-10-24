@@ -45,6 +45,14 @@ searchable with the OCR built into Windows. The same PDF engine as Firefox, insi
 small Windows app.
 [Download it](https://github.com/nick2468/pdfluffer/releases/latest).
 
+**[Cuber](https://github.com/nick2468/Cuber)** - open source - a Rubik's Cube solver
+for Windows that teaches as it solves, built from a screen my son drew on paper. Paint
+your cube's colours on to the cube on the screen, press Solve, and follow the moves
+while the cube on screen turns with you. Three methods: a quick twenty-move answer, the
+fewest moves the solver can find, and the beginner method every guide teaches, in seven
+named stages so you learn it rather than copy it.
+[Download it](https://github.com/nick2468/Cuber/releases/latest).
+
 **[jcc](https://github.com/nick2468/jcc)** - open source - a small C compiler written in
 Java.
 
