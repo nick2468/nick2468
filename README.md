@@ -58,14 +58,10 @@ Java.
 
 ### About the downloads
 
-The Tabiya, Tabiya Player and Cuber installers are signed with a code signing
-certificate, so Windows names the publisher as **Open Source Developer Nicholas
-Walker**. Windows SmartScreen may still warn about a new release for a while, until
-it builds up a reputation.
-
-The PDFluffer installer is not signed yet, so Windows will warn you that the
-publisher is unknown and ask whether you want to continue. That prompt is expected and says nothing about the file beyond
-the fact that it is not signed. Where the source is public you are welcome to
-read it, or build it yourself, rather than take my word for it.
+Every installer here is signed with a code signing certificate, so Windows names
+the publisher as **Open Source Developer Nicholas Walker**. Windows SmartScreen may
+still warn about a new release for a while, until it builds up a reputation. The
+source is public for all of them, so you are welcome to read it, or build it
+yourself, rather than take my word for it.
 
 More on the way.
